@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://www.leapreal.com//sitemap.xml
+Sitemap: https://www.leapreal.com//baidusitemap.xml
